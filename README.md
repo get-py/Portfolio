@@ -11,6 +11,6 @@
 
 # 다독다독 유클리드북스 
 수기로 관리하고 있던 책과 보드게임을 온라인으로 관리하고 빌릴 수 있는 플랫폼을 만들었다. 
-- 📒 [설명 및 시연 바로 가기] (euclidbooks.md)
+- 📒 [설명 및 시연 바로 가기](euclidbooks.md)
 - 📗 [팀 깃허브 백엔드(Django)](https://github.com/dlcksemf/Introvert-iNtuitive-X-Perceiving-Django)
 - 📘 [팀 깃허브 프론트엔드(React)](https://github.com/dlcksemf/Introvert-iNtuitive-X-Perceiving-React)
