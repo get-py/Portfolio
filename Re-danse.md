@@ -85,6 +85,6 @@
 - 새로 배우는 내용들이 많았고 오히려 그 점이 더 매력적이었다. 오래오래 개발자를 하고 싶다.
 
 
-
+### 5. 바로가기
 - 📿 [팀 깃허브 백엔드(Django)](https://github.com/BACKHAERANI/project-pajama-django)
 - 📿 [팀 깃허브 프론트엔드(React)](https://github.com/BACKHAERANI/project-pajama-react)
