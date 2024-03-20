@@ -82,4 +82,10 @@
 
 ### 4. 프로젝트 후기
 - 보통 도서관 홈페이지에 들어가서 도서 신청을 하려면 도서명과 저자, 출판사, ISBN 등을 입력해야 한다. 이 과정을 예전부터 번거롭다고 생각해서 ISBN 만으로 도서를 신청할 수 있도록 만들었다. 네이버 북스 API를 연동해서 정보를 불러왔을 때 정말 기뻤다. 
-- 도서 대출이 기본 시스템이라고 해서 이 프로젝트를 선택했는데 생각보다 백엔드를 탄탄하게 짜야함을 깨달았다. 
+- 도서 대출이 기본 시스템이라고 해서 이 프로젝트를 선택했는데 생각보다 백엔드를 탄탄하게 짜야함을 깨달았다.
+
+### 5. 바로가기
+- 📗 [팀 깃허브 백엔드(Django)](https://github.com/dlcksemf/Introvert-iNtuitive-X-Perceiving-Django)
+- 📘 [팀 깃허브 프론트엔드(React)](https://github.com/dlcksemf/Introvert-iNtuitive-X-Perceiving-React)
+
+
